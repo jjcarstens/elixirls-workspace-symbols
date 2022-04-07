@@ -1,0 +1,5 @@
+{
+  "elixirLS.mixEnv": "dev",
+  "elixirLS.mixTarget": "rpi0",
+  "elixirLS.dialyzerEnabled": false
+}

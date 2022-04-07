@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "my_dep"
+		},
+		{
+			"path": "my_fw"
+		}
+	],
+	"settings": {
+		"elixirLS.trace.server": "off"
+	}
+}
